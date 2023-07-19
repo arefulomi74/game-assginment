@@ -58,6 +58,7 @@ main{
     justify-content:space-around;
     align-items: center;
     padding: 20px 240px;
+  
 }
 .banner>img{
     width:400px;
@@ -70,7 +71,7 @@ main{
     margin-bottom: 0;
 }
 .banner-title2{
-    background-color: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    color:  #F948B2 ;
     font-weight:800;
     font-size: 5rem;
     margin-top: 0;
@@ -105,6 +106,7 @@ main{
    padding: 15px 35px;
    text-align: center;
    border: 0;
+  
 }
 .fa-brands{
     font-size: 35px;
@@ -162,6 +164,14 @@ color: #534C64;
 font-size: 1.1rem;
 font-weight: 400;
 margin-top: 25px;
+}
+.img-replace{
+    width: 150px;
+    height: 200px;
+    position: relative;
+    bottom: 180px;
+    left: 800px;
+   
 }
 
 
